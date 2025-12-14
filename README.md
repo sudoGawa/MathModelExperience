@@ -5,4 +5,4 @@
 
 > Tips：点击左下角展开目录
 
-> **欢迎任何学习与交流：[sudoGawa](https://github.com/sudoGawa)**
+> **作者：[sudoGawa](https://github.com/sudoGawa)，电子科学与技术专业硕士，欢迎学习与交流。**
